@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Lewis the Great to James the Less, his lieutenant in Ireland with reflections by way of answer to the said letter, or serious comtemplations at an unseasonable time.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48066</idno><idno type="EEBO-CITATION">12696937</idno>
+  <idno type="VID">65896</idno>
+  <idno type="EEBO-PROQUEST">2240970337</idno>
+  
+            <idno type="STC">Wing L1487</idno>
+            <idno type="STC">ESTC R32467</idno>
+            <idno type="OCLC">12696937</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65896)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1529:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Lewis the Great to James the Less, his lieutenant in Ireland with reflections by way of answer to the said letter, or serious comtemplations at an unseasonable time.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689-90]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="verse_letter">
+            <pb facs="tcp:65896:1"/>
+            <head>A LETTER FROM LEWIS the Great, To <hi>JAMES</hi> the Less, His Lieutenant in <hi>IRELAND.</hi> WITH Reflections by way of ANSWER to the said LETTER, or serious Contemplations at an Un<g ref="char:EOLhyphen"/>seasonable Time.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>TO <hi>James</hi> our Lieutenant this greeting we send:</l>
+               <l>As you hope to preserve us your Patron and Friend,</l>
+               <l>As you trust to the vertue of us and your Wife,</l>
+               <l>Who leads in your absence a dissolute life;</l>
+               <l>Now you've sold us your Land,</l>
+               <l>Obey Our Command,</l>
+               <l>As your Spouse does our <hi>Pego</hi> when e're it will st—,</l>
+               <l>And what I enjoyn you be sure to observe,</l>
+               <l>Since you know not to Rule, I will teach you to Serve.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>To reduce our new Subjects, we sent you 'tis true,</l>
+               <l>But be sure take upon you no more than your due;</l>
+               <l>Submit to the Fetters your self have put on,</l>
+               <l>You've the Name of a King but the Majesties gone.</l>
+               <l>For your bold Son-in-Law,</l>
+               <l>The valiant <hi>Nassaw,</hi>
+               </l>
+               <l>Who values not you nor my self of a straw,</l>
+               <l>Will neither be cullied nor bubbled like you,</l>
+               <l>I've a Prospect already of what he will do.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Let not Infant or Bedrid your pity implore,</l>
+               <l>You've lost all your Kingdoms by that heretofore,</l>
+               <l>A Hereticks life like a Dog's I do prise,</l>
+               <l>Murther all that oppose you, or 'gainst you dare rise:</l>
+               <l>They were Subjects to you,</l>
+               <l>Therefore make 'em all rue,</l>
+               <l>And either give them, or I'le give you your due:</l>
+               <l>I acknowledge your folly has made me more wise,</l>
+               <l>I see with my own, and not Jesuits eyes.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>These Courses in <hi>Ireland,</hi> I charge you to steer,</l>
+               <l>In the Head of your Army be sure to appear,</l>
+               <l>You're a Souldier of Fortune and fight for your pay,</l>
+               <l>You know your reward, if you once run away;</l>
+               <l>Either Conquest or Death,</l>
+               <l>I to you bequeath,</l>
+               <l>And therefore prepare for a Shrowd or a Wreath:</l>
+               <l>So thus I commit you to one of the Two,</l>
+               <l>If I see you no more hete, I bid you adieu.</l>
+            </lg>
+         </div>
+         <div type="verse_letter">
+            <pb facs="tcp:65896:2"/>
+            <head>
+               <hi>Reflections on the LETTER,</hi> &amp;c.</head>
+            <opener>To the same Tune.</opener>
+            <lg n="1">
+               <head>I.</head>
+               <l>WHEN that Remnant of Royalty <hi>Jemmy</hi> the Cully,</l>
+               <l>Had receiv'd this Epistle from <hi>Lewis</hi> the Bully,</l>
+               <l>His Countenance chang'd, and for madness he cry'd,</l>
+               <l>I've the Devil to my Friend, and his Dam to my Bride;</l>
+               <l>Sure I am the first</l>
+               <l>That's in all things accurst,</l>
+               <l>Nor can I determine which Plague is the worst,</l>
+               <l>That of losing my Realms or the News I've receiv'd,</l>
+               <l>Which from any Hand else, I cou'd ne're have believ'd.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>I find they agreed when for <hi>Ireland</hi> they sent me,</l>
+               <l>And if I knew how, 'tis high time to repent me;</l>
+               <l>I've abandon'd my reason to pleasure a Trull,</l>
+               <l>Who has made me her Bubble, her Cuckold and Fool;</l>
+               <l>We're all in the Pit,</l>
+               <l>Our designs are besh—t,</l>
+               <l>And hither I'm sent to recover my Wit:</l>
+               <l>If this be the fortune proud <hi>Este</hi> does bring,</l>
+               <l>Wou'd I'de been a Tinker instead of a King.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>How or which way to turn me, or whither to go,</l>
+               <l>By the Faith of a Jesuit I'me a Dog if I know;</l>
+               <l>For this going to War I do mortally hate,</l>
+               <l>Tho' of Sieges and Battles I ever cou'd prate;</l>
+               <l>I thought I had Valour,</l>
+               <l>But I find it was Choler,</l>
+               <l>Tho' thirty years I have been <hi>Lewis's</hi> Scholar;</l>
+               <l>I've trac'd all his Policies, Maxims and Rules,</l>
+               <l>By which I've attain'd to be chief of his Fools.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Had I courage to dye I'de refuse to survive,</l>
+               <l>I'm buried already altho' I'm alive,</l>
+               <l>My Story's like that of unfortunate <hi>Jack,</hi>
+               </l>
+               <l>I've shuffled and cut till I've quite lost the Pack:</l>
+               <l>He that trusts to the Pope,</l>
+               <l>No better must hope,</l>
+               <l>Or to <hi>Lewis</hi> or she whom that Pagan does grope:</l>
+               <l>For no Monarch must ever expect a good Life,</l>
+               <l>Who is rid by a Priest, or a damn'd Popish Wife.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>May <hi>Lewis</hi> succeed me in all Circumstances,</l>
+               <l>His Arms unsuccessful where e're he advances,</l>
+               <l>May his ill gotten Laurels be blasted and dry,</l>
+               <l>May a Shrowd be deny'd him when e're he does dye;</l>
+               <l>May his Land be o're-run,</l>
+               <l>By that Champion our Son:</l>
+               <l>So I'le close up with her who that mischief begun;</l>
+               <l>May the Curse of three Kingdoms for ever attend her,</l>
+               <l>While to <hi>WILLIAM</hi> and <hi>MARY</hi> my Crown I surrender.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
